@@ -1,0 +1,22 @@
+{
+  "name": "platinumplace/filament-username-login",
+  "type": "project",
+  "description": "Add Username in Laravel Filament login",
+  "keywords": [
+    "Laravel",
+    "PHP",
+    "Filament",
+    "Login"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^11.31",
+    "filament/filament": "^3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "UsernameLogin\\": "src/"
+    }
+  }
+}
