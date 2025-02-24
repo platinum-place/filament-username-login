@@ -8,10 +8,6 @@
 
 ### Install
 
-Here's the text for your .md:
-
----  
-
 To use `username` for authentication, add the field to the `users` table via a migration:
 
 ```php
